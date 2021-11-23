@@ -1,4 +1,4 @@
-# Automação de Comercial de Perfumaria
+# Automação Comercial de Perfumaria
 
 ### Desenvolvido em Pascal - Delphi 5/6
 
